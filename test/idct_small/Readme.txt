@@ -1,0 +1,1 @@
+idctcol.cfg 和 idctrow.cfg格式存在问题，编译时会报错
